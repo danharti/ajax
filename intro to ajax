@@ -15,3 +15,8 @@ Response - server sends back its answer
 Clients - browsers
 
 To see all AJAX request happening - open javascript console, right click or control click and choose LOG XML HTTP Requests.
+
+DOCS: also known as XHR or XMLHttpRequest
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+
+XML - means Extendable Markup Language
