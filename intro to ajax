@@ -1,0 +1,17 @@
+#Intro to AJAX
+
+AJAX stands for Asynchronous JavaScript and XML.
+
+AJAX let you update HTML without loading a new webpage
+- only part of your page are being updated.
+
+Webpages - ask info from web server.
+Web server returns data to the web browser
+Javascript processes that data to selectively change part of the web page.
+
+Request - process of asking a server for information
+Response - server sends back its answer
+
+Clients - browsers
+
+To see all AJAX request happening - open javascript console, right click or control click and choose LOG XML HTTP Requests.
